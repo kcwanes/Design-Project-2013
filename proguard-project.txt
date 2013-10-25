@@ -18,5 +18,3 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
-
-Testing 123, what do you want me to type here?
